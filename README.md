@@ -99,8 +99,7 @@ Dentro de ella, se observara la estructura de un proyecto React nextjs
 
   ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/7a92b14c-9d29-4d22-be8e-a02d22635772)
 
- ## -> En caso de que, el documento ingresado, tenga problemas o discrepancias en la tasa de interes, se emitira bajo correo, 
- ##    un mensaje como este
+ ## -> En caso de que, el documento ingresado, tenga problemas o discrepancias en la tasa de interes, se emitira un correo como este
 
  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/86731f13-cf1c-435f-aa11-5a3b80ad823e)
 
