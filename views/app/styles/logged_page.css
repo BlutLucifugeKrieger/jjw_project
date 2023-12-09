@@ -1,0 +1,52 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Martian Mono', monospace;
+}
+
+body{
+
+    min-height: 100vh;
+    /*background-color: rgb(207, 211, 215);*/
+    background: url(../images/grey.jpg) center/cover no-repeat fixed; 
+    display: grid;
+    display: grid;
+    justify-content: center;
+    place-items: center;
+
+}
+
+
+.btn{
+
+    background-color: rgb(175, 179, 184);
+    color: white;
+    border: 0;
+    padding: 0.5rem 0.5rem;
+    justify-content: center;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+
+    background-color: rgba(182, 65, 65, 0.579)
+
+}
+
+
+.exit_button{
+
+    margin-left: 700px;
+}
+
+
+#inden_field{
+
+    padding: 8px 20px;
+    border: 1px solid #AAA;
+    border-radius: 3px;
+}

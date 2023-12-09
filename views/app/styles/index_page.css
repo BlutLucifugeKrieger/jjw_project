@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Martian Mono', monospace;
+    background: url(../images/vecteezy_abstract-boxes-background-modern-technology-with-square_8171873.jpg) center/cover no-repeat fixed; 
+    height: 100vh;
+    width: 100wh;
+  }
+  
+  main {
+    width: 30%;
+    margin: auto;
+    padding: 1em 8vw;
+    background: rgba(255, 255, 255, 0.8); 
+    box-shadow: 0 0 20px #ddd;
+    position: relative; 
+    z-index: 1; 
+  }
+  
+  h1 {
+    text-align: center;
+    color: gray;
+    border-bottom: 1px solid #C4CBCE;
+    padding-bottom: .2em;
+  }
+  
+  form > div {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    position: relative; 
+    z-index: 2;
+    
+  }
+  
+  form img{
+    width: 200px;
+    border-radius: 50%;
+    border: 6px solid #AAA;
+  }
+  
+  form div:first-child{
+    align-items: center;
+  }
+  
+  form div:first-child input{
+    display: none;
+  }
+  
+  
+  form input{
+    padding: 8px 20px;
+    border: 1px solid #AAA;
+    border-radius: 3px;
+  }
+  
+  form button{
+    padding: 8px 20px;
+    width: 100%;
+    color: white;
+    border-radius: 3px;
+  }
+
+  .nombre_cuenta{
+
+    color: #980606;
+  }
+
+  .contraseña_usuario{
+
+    color: #980606;
+  }
+
+  .create_button{
+
+    margin-left: 1px;
+  }
+
+  #login_cuenta_button{
+
+    background-color: #980606;
+  }
+ 
+  #footer_jjw{
+
+    margin-top: 15px;
+    text-align: center;
+    color: #9c9999;
+  }
+
+  #login_cuenta_registro{
+
+    
+    background-color: #9c9999;
+
+  }

@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Martian Mono', monospace;
+}
+
+body{
+
+    min-height: 100vh;
+    /*background-color: rgb(207, 211, 215);*/
+    display: grid;
+    justify-content: center;
+    place-items: center;
+
+}
+
+
+.btn{
+
+    background-color: rgb(175, 179, 184);
+    color: white;
+    border: 0;
+    padding: 0.5rem 0.5rem;
+    justify-content: center;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+
+    background-color: rgba(182, 65, 65, 0.579)
+
+}
+
+
+.exit_button{
+
+    margin-left: 700px;
+}
+
+
+#tr_head{
+
+    text-align: center;
+    
+}
+
+#th_head{
+
+    background-color: rgb(245, 240, 240);
+}
+
+#ths{
+
+    text-align: center;
+}
+
+#info_panel{
+
+    text-align: center;
+    background-color: rgb(245, 240, 240);
+}
+
+#back_button{
+
+    margin-left: 293px;
+    position: absolute;
+    top: 624px;
+    
+}
+
+#chat_button{
+
+    margin-left: 200px;
+    margin-top: -67px;
+    
+}
+
+#modal_table {
+    margin-top: 100px;
+    max-width: 80%; 
+    
+}
+
+#modal_body {
+    
+    
+    overflow-y: hidden; 
+}
+
+#modal_table_class {
+    width: 100%; 
+}
+
+
+#modal_general{
+
+    margin-top: 100px;
+    max-width: 90%; 
+
+}
+
+#send_message_button{
+
+   
+    margin-right: 60px;
+    margin-left: 60px;
+    background-image: url(../images/send.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 30px;
+}

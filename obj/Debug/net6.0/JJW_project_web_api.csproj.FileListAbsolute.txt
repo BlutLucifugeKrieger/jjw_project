@@ -1,0 +1,148 @@
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.csproj.AssemblyReference.cache
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.AssemblyInfoInputs.cache
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.AssemblyInfo.cs
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\appsettings.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.exe
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.deps.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.runtimeconfig.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.pdb
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.JJW_project_web_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.build.JJW_project_web_api.props
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JJW_project_web_api.props
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JJW_project_web_api.props
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\scopedcss\bundle\JJW_project_web_api.styles.css
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.csproj.CopyComplete
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\refint\JJW_project_web_api.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.pdb
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.genruntimeconfig.cache
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\obj\Debug\net6.0\ref\JJW_project_web_api.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\juanl\Documents\Pruebas_tecnicas_JuanCastro\Prueba conocimientos\calculadora con .NET\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\appsettings.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\views\.eslintrc.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\views\package-lock.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\views\package.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\views\tsconfig.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.exe
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.deps.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.runtimeconfig.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\JJW_project_web_api.pdb
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.csproj.AssemblyReference.cache
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.AssemblyInfoInputs.cache
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.AssemblyInfo.cs
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.JJW_project_web_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.build.JJW_project_web_api.props
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JJW_project_web_api.props
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JJW_project_web_api.props
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\scopedcss\bundle\JJW_project_web_api.styles.css
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.csproj.CopyComplete
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\refint\JJW_project_web_api.dll
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.pdb
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\JJW_project_web_api.genruntimeconfig.cache
+C:\Users\juanl\Documents\SoftwareAvanzado\Arquitectura y gobernabilidad\JJW_project_web_api\obj\Debug\net6.0\ref\JJW_project_web_api.dll

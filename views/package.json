@@ -1,0 +1,35 @@
+{
+  "name": "views",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "chart": "^0.1.2",
+    "chart.js": "^4.4.1",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.0",
+    "next": "14.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18",
+    "reactstrap": "^9.2.1",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/styled-components": "^5.1.32",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}

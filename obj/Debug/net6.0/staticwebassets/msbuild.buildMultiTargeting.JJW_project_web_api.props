@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JJW_project_web_api.props" />
+</Project>
