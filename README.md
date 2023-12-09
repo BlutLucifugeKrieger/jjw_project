@@ -33,5 +33,6 @@ establecidos en la estructura de la api bajo el patron de diseño MVC.
 
 
  -> /clientes  (GET): Al ejecutar este endpoint, se obtendra un arreglo con objetos json de todos los clientes (modelo).
+ 
  -> /clientes  (POST): Al ejecutar este endpoint, se podra crear un cliente atraves de la estructuracion de un objeto json desde el cuerpo de la peticion.
  
