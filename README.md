@@ -1,4 +1,6 @@
-# JJW S.A.S APP  - Jennifer Forero , Wilson Morales, Juan Castro
+# JJW S.A.S APP   
+
+## Integrantes: Jennifer Forero , Wilson Morales, Juan Castro
 
 ## Inicializacion de la api (prueba de la ejecucion del proyecto)
 
