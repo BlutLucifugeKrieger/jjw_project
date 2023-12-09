@@ -36,3 +36,77 @@ establecidos en la estructura de la api bajo el patron de diseño MVC.
  
  -> /clientes  (POST): Al ejecutar este endpoint, se podra crear un cliente atraves de la estructuracion de un objeto json desde el cuerpo de la peticion.
  
+ -> /clientes/search/{Identificacion} (GET): Al ejecutar este endpoint y pasar por parametro la identificacion(numero) de algun cliente, se obtendra el registro completo de dicho cliente.
+
+ -> /employe/login (POST): Al ejecutar este endpoint y crear un objeto json que contenga la cedula del empleado y su contraseña, se obtendra el registro completo de dicho empleado.
+
+ -> /employe/enviar_correos_general (POST): Al ejecutar este endpoint se enviara el correo general (se envia el reporte general por correo).
+
+ -> /employe/enviar_correos_cliente (POST): Al ejecutar este endpoint se enviara el correo especifico del cliente consultado (se envia el reporte especifico por correo).
+
+ -> /employe/enviar_correos_cliente_error/{cc} (POST): Al ejecutar este endpoint y agregar como parametro el documento de un cliente, se envia mediante correo el reporte/ticket informando la falla.
+
+ -> /tasa_cliente/{id} (GET): Al ejecutar este endpoint y agregar el ID del cliente como parametro, se obtiene toda la informacion respecto a la tasa del cliente en particular.
+ 
+ -> /tasa_cliente/mes/{mes} (POST): Al ejecutar este endpoint agregando como parametro el numero del mes y en el cuerpo de la peticion el ID del cliente, se obtendran todos los registros de la tasa de interes del 
+                                    mes indicado de dicho cliente.
+                                    
+ -> /tasa_cliente/total_mes/{mes} (GET): Al ejecutar este endpoint agregando como parametro el numero del mes, se obtendran todos los registros de la tasa de interes segun dicho mes.
+
+ -> /tasa_cliente/info_cliente/{identificacion} (GET): Al ejecutar este endpoint agregando como parametro el numero de identificacion del cliente, se obtinen tanto los registros totales de las tasas de interes   
+                                                       sin importar el mes como otros datos que caracterizan a cada cliente (Nombre,apellido,año....) 
+
+## Nota: Para ejemplos de uso, por favor, revisar la interzas de Swagger (se ejecuta y/o abre cuando se inicializa la API)
+
+# Vistas (React NextJS)
+Respecto a la vista de la aplicacion, se podra llegar a los archivos pertinentes atraves de la carpera "views".
+Dentro de ella, se observara la estructura de un proyecto React nextjs
+
+ # Vistas defenidas
+
+ ## -> Inicio de sesion - Empleados | Chatbot para clientes
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/3ce4fb30-7b04-4335-bfcb-f970b9b4ea2c)
+
+  ## -> Busqueda de clientes
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/7acfbdf2-cb3f-42d9-9589-641dc4598a29)
+
+  ## -> Despliegue de la informacion del cliente
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/375ef657-b250-47dc-91ff-71c3b83b972c)
+
+  ## -> Interaccion con el chatbot -> Generacion de certificados (especifico y general)
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/b08dcb6b-a005-4b19-b029-ed639920569f)
+
+  ## -> Documento especifico - mes enero
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/bad76834-32c9-4b34-adfa-adce73f23f4f)
+
+  ## -> Documento general - mes enero
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/2023b9cd-64a3-4caa-bde3-4ef45513fb07)
+
+  ## Vista del cliente
+
+  ## -> Mision y Vision de la entidad (JJW S.A.S)
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/59dbb573-a405-4228-ad9e-ab43173ca8fc)
+
+  ## -> Al interactuar con el chatbot y pasarle el documento de un cliente sin errores o discrepancias en la tasa de interes,
+  ##    se obtuvo, como resultado.
+
+  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/7a92b14c-9d29-4d22-be8e-a02d22635772)
+
+ ## -> En caso de que, el documento ingresado, tenga problemas o discrepancias en la tasa de interes, se emitira bajo correo, 
+ ##    un mensaje como este
+
+ ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/86731f13-cf1c-435f-aa11-5a3b80ad823e)
+
+ 
+
+
+  
+
+
