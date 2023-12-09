@@ -56,7 +56,7 @@ establecidos en la estructura de la api bajo el patron de diseño MVC.
  -> /tasa_cliente/info_cliente/{identificacion} (GET): Al ejecutar este endpoint agregando como parametro el numero de identificacion del cliente, se obtinen tanto los registros totales de las tasas de interes   
                                                        sin importar el mes como otros datos que caracterizan a cada cliente (Nombre,apellido,año....) 
 
-## Nota: Para ejemplos de uso, por favor, revisar la interzas de Swagger (se ejecuta y/o abre cuando se inicializa la API)
+## Nota: Para ejemplos de uso, por favor, revisar la interfaz de Swagger (se ejecuta y/o abre cuando se inicializa la API)
 
 # Vistas (React NextJS)
 Respecto a la vista de la aplicacion, se podra llegar a los archivos pertinentes atraves de la carpera "views".
