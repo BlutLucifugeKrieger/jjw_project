@@ -120,7 +120,9 @@ Dentro de ella, se observara la estructura de un proyecto React nextjs
   ![Despliegue](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/909eb6e6-ca7a-4e3c-a8b5-2742c9d77244)
 
 
+ Artefactos realizados con ARCHIMATE.
 
+ Nota: Archivos de artecfactos incluidos en la raiz del proyecto.
 
  
 
