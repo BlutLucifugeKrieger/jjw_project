@@ -126,7 +126,9 @@ Dentro de ella, se observara la estructura de un proyecto React nextjs
 
  
 
+## Presentacion del proyecto (PPTX)
 
+https://www.dropbox.com/scl/fi/0av0u4j3sogxj8h338eib/JJW_SAS_Exposicion.pptx?rlkey=gah11nmb795m4pv8s7vc78npo&dl=0
   
 
 
