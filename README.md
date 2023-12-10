@@ -105,6 +105,23 @@ Dentro de ella, se observara la estructura de un proyecto React nextjs
 
  ![image](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/86731f13-cf1c-435f-aa11-5a3b80ad823e)
 
+  # Artefactos de arquitectura
+
+  ## -> Componentes
+
+  ![COMPONENTES](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/bddeece7-d99d-40fb-9d39-530af32783ee)
+
+  ## -> Contexto
+
+  ![CONTEXTO](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/aa897fca-db60-45b5-9b45-88c104a013b5)
+
+  ## -> Despliegue
+
+  ![Despliegue](https://github.com/BlutLucifugeKrieger/jjw_project/assets/130005378/909eb6e6-ca7a-4e3c-a8b5-2742c9d77244)
+
+
+
+
  
 
 
